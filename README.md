@@ -23,4 +23,4 @@ To run this project :
 
 ## Deployed Version
 
-Feel free to visit 👉 https://lgope-real-time-face-detection.netlify.com/
+Feel free to visit 👉 https://lgope-real-time-face-detection.netlify.com/.
